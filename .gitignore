@@ -12,8 +12,8 @@ __pycache__/
 *.xml
 *.iml
 *.zip
-*.csv
 *.png
+*.rar
 # C extensions
 *.so
 
